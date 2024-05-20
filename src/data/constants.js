@@ -223,7 +223,7 @@ export const education = [
     img: "https://media.licdn.com/dms/image/C4D0BAQGVLbqGRW70pA/company-logo_100_100/0/1631331131548?e=1719446400&v=beta&t=3-2yQS_XxyxoodNEQ061IiIYRMIlu4TLOyHQNCkUtEk",
     school: "Mohammadia School of Engineers",
     date: "2022 - 2025",
-    grade: "8.71 CGPA",
+    // grade: "8.71 CGPA",
     desc: "At Ecole Mohamadia, I am pursuing my engineering degree with a focus on computer science and digitalization. The educational framework I am immersed in provides a holistic and thorough learning experience, encompassing all the necessary skills for a thriving engineering career. Our program offers a diverse range of courses and subjects, ensuring a well-rounded foundation to cultivate an exceptional engineering profile.",
     degree: "Computer science and igitalization",
   },
